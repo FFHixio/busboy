@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "co": "^4.6.0",
-    "formstream": "~1.0.0",
+    "formstream": "~1.1.1",
     "istanbul": "^0.4.5",
     "mocha": "^4.0.1"
   },
